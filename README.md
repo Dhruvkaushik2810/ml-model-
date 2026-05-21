@@ -125,7 +125,3 @@ GitHub:
 https://github.com/Dhruvkaushik2810
 
 ---
-
-# ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub and support the work.
